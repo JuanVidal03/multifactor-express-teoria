@@ -1,0 +1,14 @@
+[
+  {
+    "email": "juantest@gmail.com",
+    "password": "$2b$10$vx5A7kc3fMwNFkdO4LonjukCB1zgfoXvN5huWk6w/jrWx6Fi17r6O",
+    "secret": "HNDSCSRRKNCEYQBP",
+    "optVerified": false
+  },
+  {
+    "email": "juanmvg2003@gmail.com",
+    "password": "$2b$10$m./dCUaItFVJeqSXyJAimej5XwGI0fiGJ8uFMdgun.F8WLJHGYDBG",
+    "secret": "HYSXO3SMMU7TSKLU",
+    "optVerified": true
+  }
+]
